@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>pl.kacpergski.program1</groupId>
+  <artifactId>hello-app</artifactId>
+  <version>1</version>
+</project>
