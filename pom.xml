@@ -4,4 +4,9 @@
   <groupId>pl.kacpergski.program1</groupId>
   <artifactId>hello-app</artifactId>
   <version>1</version>
+  <properties>
+    <maven.compiler.target>15</maven.compiler.target>
+    <maven.compiler.source>15</maven.compiler.source>
+  </properties>
+  
 </project>
